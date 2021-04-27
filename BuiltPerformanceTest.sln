@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltPerformanceTest", "BuiltPerformanceTest\BuiltPerformanceTest.csproj", "{E5071C4D-18B2-4688-BDC7-3939D94137C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7DF68F1F-1C69-42BB-9D6A-B7502F4356FB}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCSV", "AddCSV\AddCSV.csproj", "{FBDA1802-AC96-4E15-84C5-C54D01A3E865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5071C4D-18B2-4688-BDC7-3939D94137C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5071C4D-18B2-4688-BDC7-3939D94137C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5071C4D-18B2-4688-BDC7-3939D94137C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5071C4D-18B2-4688-BDC7-3939D94137C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDA1802-AC96-4E15-84C5-C54D01A3E865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDA1802-AC96-4E15-84C5-C54D01A3E865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDA1802-AC96-4E15-84C5-C54D01A3E865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDA1802-AC96-4E15-84C5-C54D01A3E865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
